@@ -1,0 +1,33 @@
+{
+  "name": "http-status-error",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Create errors using an HTTP status",
+  "license": "MIT",
+  "repository": "bendrucker/http-status-error",
+  "author": {
+    "name": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "http",
+    "status",
+    "code",
+    "error"
+  ],
+  "devDependencies": {
+    "tape": "^4.0.0",
+    "standard": "^4.0.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "assert-ok": "~1.0.0",
+    "builtin-status-codes": "~1.0.0"
+  }
+}
