@@ -1,7 +1,7 @@
 {
   "name": "http-status-error",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Create errors using an HTTP status",
   "license": "MIT",
   "repository": "bendrucker/http-status-error",
