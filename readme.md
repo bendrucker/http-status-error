@@ -19,7 +19,8 @@ httpStatusError(200)
 //=> null
 
 httpStatusError(404)
-//=> err.message => Not Found (404)
+//=> err.message => "Not Found (404)"
+//=> err.statusCode => 404
 ```
 
 ## API
