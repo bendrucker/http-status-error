@@ -1,4 +1,4 @@
-# http-status-error [![Build Status](https://travis-ci.org/bendrucker/http-status-error.svg?branch=master)](https://travis-ci.org/bendrucker/http-status-error)
+# http-status-error [![Build Status](https://travis-ci.org/bendrucker/http-status-error.svg?branch=master)](https://travis-ci.org/bendrucker/http-status-error) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/http-status-error.svg)](https://greenkeeper.io/)
 
 > Create errors using an HTTP status
 
