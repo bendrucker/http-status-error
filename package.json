@@ -21,14 +21,14 @@
   ],
   "devDependencies": {
     "tape": "^4.0.0",
-    "standard": "^4.0.0"
+    "standard": "^12.0.1"
   },
   "files": [
     "index.js"
   ],
   "dependencies": {
     "assert-ok": "~1.0.0",
-    "builtin-status-codes": "~1.0.0",
+    "builtin-status-codes": "~3.0.0",
     "is-error-code": "~1.0.0"
   }
 }
